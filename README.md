@@ -1,30 +1,16 @@
 # Protocol Tokens
 
-Design tokens for Protocol, Mozilla’s design system.
+Design tokens for Protocol, Mozilla’s design system.     _JavaScript · JSON · CSS · SCSS_
 
-<em>JavaScript · JSON · CSS · SCSS</em>
+[![Current npm package version.](https://img.shields.io/npm/v/@mozilla-protocol/tokens)](https://www.npmjs.com/package/@mozilla-protocol/tokens)
+
+[ᴄʜᴀɴɢᴇʟᴏɢ](https://github.com/mozilla/protocol-tokens/blob/main/CHANGELOG.md)
 
 ---
 
-## Information
-
-<table>
-<tr>
-<td>Package</td><td>@mozilla-protocol/tokens</td>
-</tr>
-<tr>
-<td>Description</td>
-<td>Design tokens for Protocol, Mozilla’s design system</td>
-</tr>
-<tr>
-<td>Version</td>
-<td><a href="https://github.com/mozilla/protocol-tokens/blob/master/CHANGELOG.md">5.0.5</a></td>
-</tr>
-</table>
-
 ## Installation
 
-Protocol design tokens are available as an npm package (`@mozilla-protocol/tokens`) on [npm](https://www.npmjs.com/package/@mozilla-protocol/tokens).
+Protocol design tokens are available as [`@mozilla-protocol/tokens`](https://www.npmjs.com/package/@mozilla-protocol/tokens) npm package.
 
 The recommended way to use and install design tokens may vary depending on your project; the most common are documented below.
 
